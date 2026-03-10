@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhinesh S</h1>
-<h3 align="center">Java Full Stack Developer | Problem Solver</h3>
+<h3 align="center">Java Full Stack Developer☕ | Problem Solver 💡</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dhinesh016&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 😎 About Me
 
 - 🎓 Developer passionate about **building real-world systems**
 - 💻 Currently learning **Java Full Stack Development**
@@ -48,31 +48,31 @@
 ---
 
 
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhinesh016&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhinesh016&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </p>
 
 ---
-
+-->
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhinesh016&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=dhinesh016&theme=tokyonight"/>
 </p>
 
 ---
-
+<!--
 ## 📈 Top Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhinesh016&layout=compact&theme=tokyonight"/>
-</p>
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhinesh016&layout=compact&theme=tokyonight&langs_count=6"/>
+</p>  
 
 ---
-
+-->
 ## 🧠 Currently Learning
 
 - Spring Boot
