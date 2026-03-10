@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhinesh S</h1>
-<h3 align="center">Java Full Stack Developer | Embedded Systems Enthusiast | Problem Solver</h3>
+<h3 align="center">Java Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=dhinesh016&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -11,7 +11,6 @@
 
 - 🎓 Developer passionate about **building real-world systems**
 - 💻 Currently learning **Java Full Stack Development**
-- ⚙ Interested in **Embedded Systems & IoT**
 - 📚 Improving **Data Structures & Algorithms**
 - 🧠 Love solving **logical and real-world problems**
 
@@ -21,7 +20,6 @@
 
 ### Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
@@ -37,10 +35,6 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 
 ---
 
@@ -53,24 +47,12 @@
 
 ---
 
-### 🚗 IoT Vehicle Fuel Monitoring System
-- Built using **Raspberry Pi + GSM + Ultrasonic Sensor**
-- Detects **fuel theft**
-- Sends **real-time alerts and location tracking**
 
----
-
-### ❤️ Health Monitoring System
-- Built with **Arduino + Heartbeat Sensor + GSM**
-- Monitors **heart rate and temperature**
-- Sends **SMS alerts**
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhinesh016&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -78,7 +60,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhinesh016&theme=tokyonight"/>
 </p>
 
 ---
@@ -86,7 +68,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhinesh016&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -97,14 +79,14 @@
 - Spring Security
 - System Design
 - Data Structures & Algorithms
-- SQL Project Development
+
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn link
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💼 LinkedIn: https://www.linkedin.com/in/dhinesh-s-b50550250/
+- 💻 GitHub: https://github.com/dhinesh016
 
 ---
 
